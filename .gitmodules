@@ -5,6 +5,9 @@
 [submodule "DNAseqtest"]
 	path = DNAseqtest
 	url = https://github.com/cran/DNAseqtest
+[submodule "MPLikelihoodWB"]
+	path = MPLikelihoodWB
+	url = https://github.com/cran/MPLikelihoodWB
 [submodule "imputeYn"]
 	path = imputeYn
 	url = https://github.com/cran/imputeYn
@@ -14,6 +17,3 @@
 [submodule "mapReasy"]
 	path = mapReasy
 	url = https://github.com/cran/mapReasy
-[submodule "MPLikelihoodWB"]
-	path = MPLikelihoodWB
-	url = https://github.com/cran/MPLikelihoodWB
