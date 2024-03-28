@@ -8,9 +8,3 @@
 [submodule "MPLikelihoodWB"]
 	path = MPLikelihoodWB
 	url = https://github.com/cran/MPLikelihoodWB
-[submodule "imputeYn"]
-	path = imputeYn
-	url = https://github.com/cran/imputeYn
-[submodule "jackknifeKME"]
-	path = jackknifeKME
-	url = https://github.com/cran/jackknifeKME
