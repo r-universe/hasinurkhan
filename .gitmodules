@@ -5,6 +5,3 @@
 [submodule "DNAseqtest"]
 	path = DNAseqtest
 	url = https://github.com/cran/DNAseqtest
-[submodule "MPLikelihoodWB"]
-	path = MPLikelihoodWB
-	url = https://github.com/cran/MPLikelihoodWB
